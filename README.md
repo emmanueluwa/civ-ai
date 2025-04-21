@@ -15,9 +15,9 @@
 
 - Downsides:
 
-- - can be a lot of maintenance
+  - can be a lot of maintenance
 
-- - process of ensuring information is correct and up to date
+  - process of ensuring information is correct and up to date
 
 ## AI Solution
 
